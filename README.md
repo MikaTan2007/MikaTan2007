@@ -1,6 +1,6 @@
 ## About me
 
-Hi! I'm Mika. I come from Malaysia, but have lived between Bangkok and Manila my whole life.
+Hi, I'm Mika Tan! I'm from Malaysia, and grew up between Bangkok and Manila.
 
 Now, I'm in Vancouver, attending the University of British Columbia as a First Year Bachelor of Science and Masters of Management student, intending to major in Computer Science.
 
