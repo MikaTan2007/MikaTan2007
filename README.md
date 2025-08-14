@@ -31,7 +31,7 @@ In my free time I enjoy reading and exercising!
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mikatan2007&theme=dark&hide_border=false)
-
 ## Contact Me
 mikayxtan@gmail.com | [LinkedIn](https://www.linkedin.com/in/mika-yu-xian-tan-aa587b34b/)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mikatan2007&theme=dark&hide_border=false)
