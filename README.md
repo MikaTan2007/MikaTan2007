@@ -11,6 +11,7 @@ In my free time I enjoy reading and exercising!
 ## Tech Stack
 #### Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
