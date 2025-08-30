@@ -34,5 +34,3 @@ In my free time I enjoy reading and exercising!
 
 ## Contact Me
 mikayxtan@gmail.com | [LinkedIn](https://www.linkedin.com/in/mika-yu-xian-tan-aa587b34b/)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mikatan2007&theme=dark&hide_border=false)
