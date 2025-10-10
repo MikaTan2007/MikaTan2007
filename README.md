@@ -37,4 +37,4 @@ In my free time I enjoy reading and exercising!
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
 ## Contact Me
-mikayxtan@gmail.com | [LinkedIn](https://www.linkedin.com/in/mika-yu-xian-tan-aa587b34b/)
+mikayxtan@gmail.com | [LinkedIn](https://www.linkedin.com/in/mika-yu-xian-tan/)
