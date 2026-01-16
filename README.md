@@ -2,7 +2,7 @@
 
 Hi, I'm Mika Tan!
 
-I'm attending the University of British Columbia as a First Year Bachelor of Science and Masters of Management student, with an intended major of Computer Science and Math.
+I'm attending the University of British Columbia as a First Year Bachelor of Science and Masters of Management student.
 
 I'm big into full-stack development, having solo-built web applications for large-scale international university fairs, like the **[Manila World University Fair](https://ismanilafair.com)**. 
 
