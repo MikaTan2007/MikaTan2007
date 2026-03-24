@@ -1,14 +1,14 @@
 ## About me
 
-Hi, I'm Mika Tan!
+Hi, I'm Mika!
 
-I'm attending the University of British Columbia as a First Year Bachelor of Science and Masters of Management student.
+I'm attending the University of British Columbia as a First Year Bachelor of Science and Masters of Management student, with an intended Major in Mathematics and Minor in Physics.
+
+I'm the Technical Lead of the Electrical and Software team at **Sustaingineering**, a UBC Engineering Design Team, where I'm working with Raspberry computers, microcontrollers, and sensors to build a Remote Monitoring System for a fully-sustainable home, called the SMRT Project. 
 
 I'm big into full-stack development, having solo-built web applications for large-scale international university fairs, like the **[Manila World University Fair](https://ismanilafair.com)**. 
 
-I'm also an AI researcher at **Algoverse**, where I'm conducting research into high-norm activations in diffusion transformer models. 
-
-Finally, I'm part of the Electrical and Software team at **Sustaingineering**, a UBC Design Team, where I'm working with Raspberry computers, microcontrollers, and sensors to build a Remote Monitoring System for a fully-sustainable home, called the SMRT Project. 
+As an AI Researcher at **Algoverse**, I authored and published a paper in AAAI-26 looking into high-norm activations in [Diffusion Transformer models](https://openreview.net/pdf?id=Fc7s3UrQr1).
 
 In my free time I enjoy reading and exercising!
 
@@ -37,4 +37,4 @@ In my free time I enjoy reading and exercising!
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
 ## Contact Me
-mikayxtan@gmail.com | [LinkedIn](https://www.linkedin.com/in/mika-yu-xian-tan/)
+mikayxtan@gmail.com | [mikatan.xyz](https://mikatan.xyz) | [LinkedIn](https://www.linkedin.com/in/mika-yu-xian-tan/)
