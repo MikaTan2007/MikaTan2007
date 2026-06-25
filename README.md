@@ -1,6 +1,6 @@
 ## About me
 
-I'm attending the University of British Columbia, pursuing a BSc in Mathematics (Minor in Physics) and Masters of Management.
+I'm attending the University of British Columbia, pursuing a BSc in Mathematics (Minor in Physics) and Masters of Management. I am passionate about renewable energies.
 
 In my free time I enjoy running and reading!
 
