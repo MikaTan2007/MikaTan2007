@@ -1,6 +1,6 @@
 ## About me
 
-I'm attending the University of British Columbia, pursuing a BSc in Mathematics (Minor in Physics) and Masters of Management. I am passionate about renewable energies.
+I'm attending the University of British Columbia, pursuing a BSc. Combined Honors in Physics & Mathematics, and Master of Management. I am passionate about operations, renewable energies, and climate tech.
 
 In my free time I enjoy running and reading!
 
@@ -29,4 +29,4 @@ In my free time I enjoy running and reading!
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
 ## Contact Me
-mikayxtan@gmail.com | [mikatan.xyz](https://mikatan.xyz) | [LinkedIn](https://www.linkedin.com/in/mika-yu-xian-tan/)
+mikayxtan@gmail.com | [LinkedIn](https://www.linkedin.com/in/mika-yu-xian-tan/)
