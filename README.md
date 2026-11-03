@@ -1,6 +1,6 @@
 ## About me
 
-I'm attending the University of British Columbia, pursuing a BSc. Combined Honors in Physics & Mathematics, and Master of Management. I am passionate about operations, renewable energies, and climate tech.
+I'm attending the University of British Columbia, pursuing a dual degree of BSc. Combined Honors in Physics & Mathematics, and Master of Management. I am passionate about operations, renewable energies, and climate tech.
 
 In my free time I enjoy running and reading!
 
