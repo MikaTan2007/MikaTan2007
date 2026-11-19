@@ -10,6 +10,7 @@ In my free time I enjoy running and reading!
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 
 #### Machine Learning
 
@@ -19,7 +20,9 @@ In my free time I enjoy running and reading!
 
 #### Hardware/Firmware
 
-##### CircuitPython
+CircuitPython
+![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
 #### Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
