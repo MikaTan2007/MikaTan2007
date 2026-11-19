@@ -5,6 +5,27 @@ I'm attending the University of British Columbia, pursuing a dual degree of Comb
 In my free time I enjoy running and reading!
 
 ## Tech Stack
+
+#### Scientific Computing and Computational Physics
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+
+#### Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
+
+#### Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
+
+#### Hardware/Firmware
+
+![CircuitPython](https://shields.io)
+
 #### Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
@@ -16,17 +37,6 @@ In my free time I enjoy running and reading!
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)
-
-#### Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
-
-#### Competition Programming & Algorithms
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
 ## Contact Me
 mikayxtan@gmail.com | [LinkedIn](https://www.linkedin.com/in/mika-yu-xian-tan/)
