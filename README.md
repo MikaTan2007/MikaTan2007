@@ -16,15 +16,9 @@ In my free time I enjoy running and reading!
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
 
-#### Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
-
 #### Hardware/Firmware
 
-![CircuitPython](https://shields.io)
+##### CircuitPython
 
 #### Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
