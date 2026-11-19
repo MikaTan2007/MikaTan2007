@@ -8,7 +8,8 @@ In my free time I enjoy running and reading!
 
 #### Scientific Computing and Computational Physics
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 
 #### Machine Learning
 
