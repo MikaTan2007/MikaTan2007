@@ -1,8 +1,6 @@
 ## About me
 
-I'm attending the University of British Columbia, pursuing a dual degree of Combined Honours in Physics & Mathematics, and Master of Management. I am passionate about operations, renewable energies, and climate tech.
-
-In my free time I enjoy running and reading!
+I'm a second-year Honours Physics and Master of Management student at the University of British Columbia. I am passionate about renewable energies and computational physics.
 
 ## Tech Stack
 
